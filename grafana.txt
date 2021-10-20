@@ -1,0 +1,1 @@
+Grafana is an open source visualization tool with support for many databases, including Graphite, InfluxDB, Prometheus, and Elasticsearch.
